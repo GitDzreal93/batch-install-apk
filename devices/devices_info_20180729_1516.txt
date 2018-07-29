@@ -1,0 +1,3 @@
+List of devices attached
+S25QBDPF22DTY	device
+
